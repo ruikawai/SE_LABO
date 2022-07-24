@@ -1,0 +1,16 @@
+/* Reset css */
+@import 'foundation/_reset.css';
+@import 'foundation/_base.css';
+@import 'foundation/_var.css';
+@import 'foundation/_font.css';
+
+/* style */
+@import '../gymchizu/foundation/style.css';
+@import '../gymchizu/foundation/less795px.css';
+@import '../gymchizu/foundation/more796px.css';
+
+/* js */
+
+
+
+

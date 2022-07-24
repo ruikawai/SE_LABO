@@ -1,0 +1,13 @@
+/* Reset css */
+@import "../nasenaru/foundation/_reset.css";
+@import "../nasenaru/foundation/_base.css";
+@import "../nasenaru/foundation/_var.css";
+@import "..//nasenaru/foundation/_font.css";
+
+/* style */
+@import "../nasenaru/foundation/style.css";
+@import "../nasenaru/foundation/less795px.css";
+@import "../nasenaru/foundation/more796px.css";
+
+/* js */
+@import "../nasenaru/foundation/animsition.min.css";
